@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\reeeeeeee.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{D15F44AA-70B1-4EB0-9229-03083C408F24}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\reeeeeeee.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\reeeeeeeeEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{087EC740-DA2E-4165-8F83-1AD702ABB601}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultInput.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\reeeeeeee">
+			<UniqueIdentifier>{E31C5AA3-F320-436E-BFD4-4FBE3FFE384C}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\reeeeeeee\reeeeeeee.Build.cs">
+			<Filter>Source\reeeeeeee</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\reeeeeeee\reeeeeeee.cpp">
+			<Filter>Source\reeeeeeee</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\reeeeeeee\reeeeeeee.h">
+			<Filter>Source\reeeeeeee</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\reeeeeeee\reeeeeeeeCharacter.cpp">
+			<Filter>Source\reeeeeeee</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\reeeeeeee\reeeeeeeeCharacter.h">
+			<Filter>Source\reeeeeeee</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\reeeeeeee\reeeeeeeeGameMode.cpp">
+			<Filter>Source\reeeeeeee</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\reeeeeeee\reeeeeeeeGameMode.h">
+			<Filter>Source\reeeeeeee</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>
